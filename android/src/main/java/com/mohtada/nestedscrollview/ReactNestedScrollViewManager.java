@@ -59,7 +59,6 @@ public class ReactNestedScrollViewManager
         return new ReactNestedScrollView(context, mFpsListener);
     }
 
-    @Override
     public void flashScrollIndicators(ReactNestedScrollView scrollView) {
         // @TODO
         // scrollView.flashScrollIndicators();
